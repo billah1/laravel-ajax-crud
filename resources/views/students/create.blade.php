@@ -1,4 +1,4 @@
-<form id="createForm" action="{{route('students.store')}}" method="POST" enctype="multipart/form-data">
+<form id="createForm" action="" method="POST" enctype="multipart/form-data">
 
     @csrf
 
